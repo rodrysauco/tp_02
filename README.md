@@ -8,4 +8,4 @@ En el metodo update, el Observer recibe como primer parametro el objeto desde el
 
 -El valor que cambió, ya sea en una variable como en una coleccion de datos.
 
-El metodo se ejecuta cuando se hace el llamado notifyObserver();
+El metodo se ejecuta cuando se hace el llamado notifyObserver()
